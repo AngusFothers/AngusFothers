@@ -13,8 +13,7 @@
 
 ## 📫 Contact me
 [![Email](https://img.shields.io/badge/Email-AngusRJFotheringham@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:AngusRJFotheringham@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angus_Fotheringham-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/angusrjfotheringham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angus_Fotheringham-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angus-fotheringham-7201232b5)
 
 
 
