@@ -9,7 +9,7 @@
 - Developing a gamified simulation for water literacy and interoperability
 
 ## 💻 I Recently Built
-- 🤖 **[Fake News Detection Model](https://github.com/AngusFothers/fake-news-detector)** — A logistic regression NLP model trained on 40,000+ news articles achieving 98.75% accuracy, 99.08% precision and 98.53% recall in classifying real vs fake news
+- 🤖 **[Fake News Detection Model]([https://github.com/AngusFothers/fake-news-detector](https://github.com/AngusFothers/FakeNewDetectionTool))** — A logistic regression NLP model trained on 40,000+ news articles achieving 98.75% accuracy, 99.08% precision and 98.53% recall in classifying real vs fake news
 
 ## 📫 Contact me
 [![Email](https://img.shields.io/badge/Email-AngusRJFotheringham@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:AngusRJFotheringham@gmail.com)
